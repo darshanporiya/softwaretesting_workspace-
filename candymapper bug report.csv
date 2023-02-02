@@ -1,0 +1,28 @@
+bug_id,bug_severity,priority,op_sys,assigned_to,bug_status,resolution,short_desc
+16,major,Highest,Windows,pranav@gmail.com,NEW,---,phone number contains digit and alphabet that is not valid there should be only numbers
+23,major,Highest,Windows,pranav@gmail.com,NEW,---,Click on camera picture's click me button it should be show camera page but it shows skeleton page
+24,major,Highest,Windows,pranav@gmail.com,NEW,---,Click on skeleton picture's click me button it should be show skeleton page but it shows camera page
+25,major,Highest,Windows,pranav@gmail.com,NEW,---,Click on try again button in camera page it should be redirect the home page
+3,critical,High,Windows,abhi@gmail.com,NEW,---,click on go button without searching a product it should be show validation message
+15,major,High,Windows,abhi@gmail.com,NEW,---,click on see the deadlights ! menu it  should be redirect the page
+10,critical,High,Windows,pranav@gmail.com,NEW,---,verify if user enter long text in email-id field it should be show limit validation message
+11,critical,High,Windows,pranav@gmail.com,NEW,---,click on send button without entering ditails in message box it should not be accept
+12,critical,High,Windows,pranav@gmail.com,NEW,---,click on send button without entering ditails in message box it should be show validation
+13,critical,High,Windows,pranav@gmail.com,NEW,---,verify if user enter long text in message box it should be show limit validation message
+19,critical,High,Windows,pranav@gmail.com,NEW,---,while we are entering details in name field there is  a space is for hundred character but we can only enter 2 character
+20,critical,High,Windows,pranav@gmail.com,NEW,---,while we are entering details in Quest field there is a space is for hundred character but we can only enter 51 character
+14,normal,Normal,Windows,abhi@gmail.com,NEW,---,click on zombie link it should be download the image
+4,critical,Normal,Windows,pranav@gmail.com,NEW,---,there should be not spelling mistake
+5,critical,Normal,Windows,pranav@gmail.com,NEW,---,click on send button while without entering any details it should be show validation message
+6,critical,Normal,Windows,pranav@gmail.com,NEW,---,click on send button while without entering only name field it should be not accepted the message
+7,critical,Normal,Windows,pranav@gmail.com,NEW,---,click on send button while entering digits in name fields it should be show validation message
+8,critical,Normal,Windows,pranav@gmail.com,NEW,---,click on send button while entering special character in name fields it should be show validation message
+9,minor,Normal,Windows,pranav@gmail.com,NEW,---,verify if user enter long text in name field it should be show limit validation message
+17,critical,Normal,Windows,pranav@gmail.com,NEW,---,click on submit button without filling any details there should be show validation message in mandatory fields
+18,critical,Normal,Windows,pranav@gmail.com,NEW,---,cilck on clear button without filling any details it should be show validation message
+26,critical,Normal,Windows,pranav@gmail.com,NEW,---,Try again button should be in center in camera page
+21,major,Low,Windows,abhi@gmail.com,NEW,---,launch candymapper page can't launch it shown progressbar
+22,major,Low,Windows,abhi@gmail.com,NEW,---,launch candymapper page in scrollbar is not working properly
+27,minor,Low,Windows,pranav@gmail.com,NEW,---,there should be not spelling mistake in success message
+1,critical,---,Windows,abhi@gmail.com,NEW,---,phone number should be show in only digits
+2,critical,---,Windows,abhi@gmail.com,NEW,---,search box ui should be align in properly
